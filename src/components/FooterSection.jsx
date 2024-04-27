@@ -35,7 +35,7 @@ const FooterSection = () => {
         <hr className="block w-[90%] border-solid border-white border-b-0 border-t mx-auto my-3"></hr>
         {/* copyright section */}
         <div className="text-white text-center md:text-md text-sm">
-          Ⓒ 2024 – CREATED BY SUBHAJIT ADHIKARY – All Rights Are
+          Ⓒ 2024 – <span className="font-bold"> CREATED BY SUBHAJIT ADHIKARY </span> – All Rights Are
           Reserved
         </div>
       </div>
