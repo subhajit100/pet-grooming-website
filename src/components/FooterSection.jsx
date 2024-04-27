@@ -11,7 +11,7 @@ const FooterSection = () => {
         <div className="lg:text-5xl sm:text-4xl text-3xl font-bold text-center text-white max-w-[500px] mx-auto md:my-10 my-6">
           Trusted by 50,000+ Pet Parents
         </div>
-        <div className="text-white text-center lg:text-xl text-md">
+        <div className="text-white text-center lg:text-xl text-md mx-2">
           Become a part of a thriving community with over 5,00,000 pet lovers
           just like you, in the world.
         </div>
